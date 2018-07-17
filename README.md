@@ -12,7 +12,7 @@ Personal repository for the [VR Developer Nanodegree](http://udacity.com/vr) pro
     - Projects: 
         * [Udacity Carnival](https://github.com/devwlad/VRD_Udacity/tree/master/vrnd-udacity-carnival)
         * [Build an Apartment](https://github.com/devwlad/VRD_Udacity/tree/master/vrnd-udacity-build-an-apartment-wladimir-araujo)
-        * [A Maze])()
+        * [A Maze]()
 
 - Term 2 - Essentials:
 
@@ -31,8 +31,6 @@ Personal repository for the [VR Developer Nanodegree](http://udacity.com/vr) pro
 
         * Mobile Performance and 360 Media
 
-
-- Extra
 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
