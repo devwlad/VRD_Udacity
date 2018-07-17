@@ -3,27 +3,20 @@
 Personal repository for the [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Term 1 - Foundations:
-
-    - Courses: 
-        * Introduction to Virtual Reality
-        * VR Scenes & Objects
-        * VR Software Development
     
     - Projects: 
         * [Udacity Carnival](https://github.com/devwlad/VRD_Udacity/tree/master/vrnd-udacity-carnival)
         * [Build an Apartment](https://github.com/devwlad/VRD_Udacity/tree/master/vrnd-udacity-build-an-apartment-wladimir-araujo)
-        * [A Maze]()
+        * A Maze
 
 - Term 2 - Essentials:
 
-    - Courses:
-
-        * [VR Design]()
-        * [VR Platforms and Applications]()
+    - Project:
+        * Puzzler
 
 - Final Project:
 
-    * [Build your own VR application]()
+    * Build your own VR application
 
 - Term 3 - Especialization:
 
