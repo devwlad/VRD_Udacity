@@ -158,7 +158,7 @@ e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEng
 67a5f2c97205d2e41a8ed7c7ce898f6e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSourceExtension
 1f3a68064dbfa3445b5941d1d23a8ce5 Assembly-CSharp.dll:.GvrPointerPhysicsRaycaster
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrHeadset
-ef204decd9e6dc52e3b9745801a98837 Assembly-CSharp.dll:.TriggerAnimation
+70c9e3af54ffdb61f51eec43276a9121 Assembly-CSharp.dll:.TriggerAnimation
 145a2fa61e986ff4b79d8ce7959fc905 Assembly-CSharp.dll:.GvrRecenterOnlyController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.InstantPreviewHelper
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Gvr.Internal.EmulatorManager

@@ -29,3 +29,8 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - [VR Scenes and Objects - Cameras](https://github.com/udacity/VR-Scenes-and-Objects_Cameras/releases)
 - [VR Scenes and Objects - Lights](https://github.com/udacity/VR-Scenes-and-Objects_Lights/releases)
 - VR Scenes and Objects - Build an Apartment
+
+### Notes
+- How long it took for the project to be finished: 15~ hours, split in four days.
+- Something that I've liked on the project: I do believe that the best part of the project was to take care of the lighting. Gave me some trouble, but was really nice.
+- Something that I considered a challenge during the project: Same as above. Working with lighting effects is really hard. Way harder that I first thought it would be. But still, to learn even the basics of it felt great.
